@@ -1,3 +1,5 @@
+Below is the changes I made and why.
+
 1.	In line 7 on the HTML file, I added “Horiseon” in between <Title> tag.
 2.	h1>Hori<span class="seo">seo</span>n</h1>
 In line 12 on the HTML file I removed the <span> tag because this did not have any purpose as the color of Horiseon was all white.
@@ -11,6 +13,10 @@ For 3 and 4 you replace the <Div> tag with <nav> tag because this is the navigat
 9.	Retitle each the code in line 57, 63, and 70 to class="Benefit" in HTML.
 10.	Go to CSS File and remove the extra Benefit Lead/Brand/Cost as it is all under what Benefit now.
 11.	In HTML file remove line 30 and change line 71 in CSS file to main {}.
+
+<img src="./images/Code-Refactor-Screenshot.png">
+
+[Link to deployed website](https://joeyliu518.github.io/Code-Refactor-Mod-1/)
 
 
 
